@@ -54,7 +54,7 @@ This Home Assistant add-on allows you to easily run **Newt** directly in Home As
 After installation, you can configure the add-on via the Home Assistant UI:
 
 ```yaml
-PANGOLIN_ENDPOINT: "https://example.com"
+PANGOLIN_ENDPOINT: "https://example.com" (remember "https://" in the URL)
 NEWT_ID: "your_newt_id"
 NEWT_SECRET: "your_newt_secret"
 ```
